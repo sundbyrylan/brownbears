@@ -1,0 +1,26 @@
+#bears{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(150,100,0);
+    font-size: xx-large;
+    border-style: dashed;
+    border-color: aliceblue;
+}
+
+
+#h1{
+    font-size: medium;
+}
+
+#body{
+    background-color: rgb(150,75,0);
+    padding-bottom: 5%;
+}
+
+#link:link{
+    color: white;
+}
+
+#link:visited{
+    color: white;
+}
